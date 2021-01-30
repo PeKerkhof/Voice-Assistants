@@ -65,9 +65,8 @@ library("worcs")
 # and end that file with either open_data(yourdata), or closed_data(yourdata).
 # Then, uncomment the line below to load the original or synthetic data
 # (whichever is available), to allow anyone to reproduce your code:
-# load_data()
+# load_data("data/va.csv")
 r_refs("r-references.bib")
-
 ```
 
 This manuscript uses the Workflow for Open Reproducible Code in Science [WORCS version 0.1.7, @vanlissaWORCSWorkflowOpen2020] to ensure reproducibility and transparency. All code <!--and data--> are available at <https://github.com/PeKerkhof/Voice-Assistants.git>.

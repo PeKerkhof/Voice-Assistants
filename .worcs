@@ -1,3 +1,8 @@
 worcs_version: 0.1.7
 creator: peterkerkhof
 entry_point: manuscript/manuscript.Rmd
+data:
+  va.csv:
+    codebook: codebook_va.Rmd
+checksums:
+  va.csv: 4cef3987d8e21b0a2d527137b3c557ca

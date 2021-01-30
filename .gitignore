@@ -10,3 +10,5 @@
 *.log
 *.tex
 .Rproj.user
+!va.csv
+!codebook_va.csv
